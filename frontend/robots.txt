@@ -1,0 +1,7 @@
+User-agent: *
+Allow: /
+Disallow: /api/download/file/
+Disallow: /api/download/status/
+
+# Sitemaps
+Sitemap: https://YOUR-APP-NAME.onrender.com/sitemap.xml
